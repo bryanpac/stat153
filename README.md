@@ -15,6 +15,16 @@ Time series data is characterized by a temporal order among observations. The co
 
 These models are used to describe, analyze, and forecast patterns in real-world time series data.
 
+
+## 📈 Homework Performance
+
+| Assignment | My Score | Max (Undergrad) |
+|------------|----------|-----------------|
+| HW 1       | 58.0     | 75              |      
+| HW 2       | 69.0     | 70              |      
+| HW 3       | 78.5     | 87              | 
+| HW 4       | 84.0     | 85              |        
+
 ## 🔒 Academic Integrity
 
 This repository is private and shared only with select reviewers. It includes course materials and code intended solely for evaluation of my individual work and skills.  
