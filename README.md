@@ -23,7 +23,8 @@ These models are used to describe, analyze, and forecast patterns in real-world 
 | HW 1       | 58.0     | 75              |      
 | HW 2       | 69.0     | 70              |      
 | HW 3       | 78.5     | 87              | 
-| HW 4       | 84.0     | 85              |        
+| HW 4       | 84.0     | 85              |  
+| HW 5       | 90.0     | 92              |
 
 ## 🔒 Academic Integrity
 
